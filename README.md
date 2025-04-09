@@ -143,14 +143,14 @@ public class UnaryExample {
 
 Bitwise operators are used to perform operations on binary representations of numbers.
 
-| Operator | Description                   | Example           |
-|----------|-------------------------------|-------------------|
-| `&`      | Bitwise AND                   | `a & b`           |
-| `|`      | Bitwise OR                    | `a | b`           |
-| `^`      | Bitwise XOR                   | `a ^ b`           |
-| `~`      | Bitwise NOT                   | `~a`              |
-| `<<`     | Left shift                    | `a << 2`          |
-| `>>`     | Right shift                   | `a >> 2`          |
+| Operator | Description                   | Example  |
+|----------|-------------------------------|----------|
+| `&`      | Bitwise AND                   | `a & b`  |
+| `\|`     | Bitwise OR                    | `a \| b` |
+| `^`      | Bitwise XOR                   | `a ^ b`  |
+| `~`      | Bitwise NOT                   | `~a`     |
+| `<<`     | Left shift                    | `a << 2` |
+| `>>`     | Right shift                   | `a >> 2` |
 
 **Example:**
 ```java
@@ -208,7 +208,6 @@ public class InstanceofExample {
 
 ---
 
-### **Conclusion**
 
 Understanding and mastering these operators is crucial for controlling the flow and logic of your programs. Each operator has its role, whether it's performing calculations, comparing values, making decisions
 

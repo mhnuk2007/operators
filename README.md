@@ -64,11 +64,11 @@ public class RelationalExample {
 
 These operators are used to combine multiple conditions and return a boolean result (`true` or `false`).
 
-| Operator | Description                          | Example               |
-|----------|--------------------------------------|-----------------------|
-| `&&`     | Logical AND                          | `a > 5 && b < 10`      |
-| `||`     | Logical OR                           | `a > 5 || b < 10`      |
-| `!`      | Logical NOT                          | `!(a > b)`            |
+| Operator | Description | Example             |
+|----------|-------------|---------------------|
+| `&&`     | Logical AND | `a > 5 && b < 10`   |
+| `\|\|`   | Logical OR  | `a > 5 /|/| b < 10` |
+| `!`      | Logical NOT | `!(a > b)`          |
 
 **Example:**
 ```java
